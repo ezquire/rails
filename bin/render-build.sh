@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -o errexit
+echo $DATABASE_URL
 bundle install
 bundle exec rake assets:precompile
 bundle exec rake assets:clean
