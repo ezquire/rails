@@ -81,4 +81,4 @@ test:
 #
 production:
   <<: *default
-  url: 'postgres://rails_site_tyler_user:ceO4iCGqcPG8Rcihkgo2oNAJx37q93bP@dpg-c2anmd0s3tndq2atris0/rails_site_tyler'
+  url: 'postgres://mysite:TTo8SR8bv2ocGnuAmNAJycqCUC5LsqjN@dpg-c2amjs598u90qqqrbhu0/mysite_ot5p'
